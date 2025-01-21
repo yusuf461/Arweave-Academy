@@ -48,6 +48,9 @@ Developers need to complete GitHub registration by following these steps:
 
 ## Task Submission
 
+> 📣📣📣 **Due to the recent influx of participants, the size of this repository has grown significantly. we've decided to archive the files in the Submissions folder that have already been merged. This step is being taken to reduce the repository size and ensure that the event can continue smoothly.**  [More Information](./submissions/Archive%20Announcement.md)
+
+
 After each course there will be a series of tasks. These tasks will test whether you have mastered the course content. You will be redirected to the @OpenBuildxyz platform to complete the task and submit a screenshot of the result to your folder in the GitHub repository.
 
 For example, to submit `task1`, follow these steps:
@@ -59,6 +62,8 @@ For example, to submit `task1`, follow these steps:
 5. Submit a Pull Request to this repository. Once your PR is merged, `task1` will be marked as complete.
 
 Developers who complete all the courses and submit the tasks will receive a Level 1 Certification. If you earn all 4 Levels of Certifications in the future, you will be awarded a **Final Graduation Certificate** and become a priority candidate in our talent pool, gaining access to more job opportunities within the ecosystem.
+
+
 
 ## Course Guideline
 
